@@ -1,22 +1,25 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "NumPy: Trigonometric Functions",
+    "slug": "numpy-trigonometric-functions",
+    "description": "An introduction to the sin, cos and tan functions in NumPy.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "numpy",
+        "trigonometry"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
+        "maths-trigonometry-sine-cosine",
+        "maths-tangent-function",
+        "numpy-arrays",
+        "programming-elementwise-operations",
+        "programming-calling-functions"
     ],
     "related": [
-        "",
-        ""
+        "numpy-inverse-trigonometric-functions"
     ]
 }
