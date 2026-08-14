@@ -21,5 +21,8 @@
     ],
     "related": [
         "numpy-inverse-trigonometric-functions"
+    ],
+    "python_packages": [
+        "numpy"
     ]
 }
