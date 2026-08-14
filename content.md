@@ -10,4 +10,4 @@ print(np.cos(a))
 print(np.tan(a))
 ```
 
-These functions interpret the input as radians.
+These functions all interpret their arguments in units of radians.
