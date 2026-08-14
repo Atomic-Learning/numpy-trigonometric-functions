@@ -3,7 +3,7 @@ NumPy contains functions which applies the sine, cosine and tangent functions el
 ```py-cell
 import numpy as np
 
-a = np.array([0, np.pi/2, np.pi])
+a = np.array([0, 1, 2, 3])
 
 print(np.sin(a))
 print(np.cos(a))
